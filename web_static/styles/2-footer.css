@@ -1,13 +1,9 @@
-footer {
-    background-color: #00ff00;
-    position: fixed;
-    bottom: 0;
-    height: 60px;
-    width: 100%;
-}
-
-footer > p {
-    width: 200px;
-    text-align: center;
-    margin: 20px auto;
+footer{
+    Background-color:#00FF00;
+    height:60px;
+    width:100%;
+    position: absolute;
+    bottom:0;
+    text-align:center;
+    line-height:60px
 }

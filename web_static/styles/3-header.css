@@ -3,11 +3,13 @@ header {
     height: 70px;
     width: 100%;
     border-bottom: 1px solid #CCCCCC;
+    display: flex;
+    align-items: center;
 }
 
-header > div {
-    background: url(../images/logo.png) no-repeat;
+header .logo {
     width: 142px;
     height: 60px;
-    margin: 5px 20px;
+    background: url("../images/logo.png") no-repeat center;
+    padding-left: 20px;
 }
