@@ -14,7 +14,6 @@ This is part one to the AirBnB clone project. For this project, we created a com
 - [Commands](#commands)
 - [Testing](#testing)
 - [Authors](#authors)
-- [License](#license)
 
 ## Requirements
 
@@ -64,7 +63,3 @@ This project was tested using "unittest" in the AirBnB_clone/tests directory:
 
 - Zekarias Abera
   - [Github](https://github.com/ZachAbera)
-
-## License
-
-AirBnB clone is released under the MIT license. See [LICENSE](https://github.com/srinitude/AirBnB_clone/blob/master/LICENSE) for details.
